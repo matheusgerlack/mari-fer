@@ -1,0 +1,77 @@
+html {
+	background: url("../img/background.jpg");
+}
+@font-face {
+    font-family: orangeJuice;
+    src: url("../fonts/orange-juice-2.0.ttf");
+}
+
+h1 {
+    font-family: orangeJuice;
+    font-size: 100px;
+}
+
+.jumbotron{
+	background: url("../img/background.jpg");
+	text-align: center;
+	padding-top: 12%;
+}
+
+.jumbotron h1{
+	font-size: 100px;
+	/*color:  #147895;*/
+}
+
+.btn-group a img{
+	height:90px; 
+	width:90px;
+	outline: 0;
+}
+
+.btn-group a img:first-child:hover{
+	height:80px; 
+	width:87px;
+	outline: 0;
+}
+
+.btn-group a .botao3{
+	height:120px; 
+	width:120px;
+}
+
+.btn-group a .botao3:hover{
+	height:115px; 
+	width:115px;
+}
+
+.voltar{
+	width: 150px;
+	height: 150px;
+	position: fixed;
+}
+
+.navbar{
+	background: url("../img/background.jpg");
+	margin-bottom: 0px;
+	height: 1px;
+}
+
+.page2img{
+	background: url("../img/pagina2.jpg");
+	background-size: cover;
+	height: 500px;
+}
+
+.page2img{
+	background: url("../img/pagina2.jpg");
+	background-size: cover;
+	height: 700px;
+}
+
+.imagemInterativa p{
+	color: #fff;
+	font-size: 50px;
+	padding-top: 13%;
+	text-shadow:2px 4px 2px #222;
+}
+
