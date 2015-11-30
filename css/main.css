@@ -11,6 +11,10 @@ h1 {
     font-size: 100px;
 }
 
+p{
+    font-family: orangeJuice;
+}
+
 .jumbotron{
 	background: url("../img/background.jpg");
 	text-align: center;
