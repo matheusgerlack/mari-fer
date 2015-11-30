@@ -56,14 +56,9 @@ h1 {
 	height: 1px;
 }
 
-.page2img{
-	background: url("../img/pagina2.jpg");
-	background-size: cover;
-	height: 500px;
-}
 
 .page2img{
-	background: url("../img/pagina2.jpg");
+	background: url("../img/pagina2.JPG");
 	background-size: cover;
 	height: 700px;
 }
