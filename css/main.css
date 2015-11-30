@@ -34,15 +34,6 @@ h1 {
 	outline: 0;
 }
 
-.btn-group a .botao3{
-	height:120px; 
-	width:120px;
-}
-
-.btn-group a .botao3:hover{
-	height:115px; 
-	width:115px;
-}
 
 .voltar{
 	width: 150px;
